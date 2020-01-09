@@ -1,0 +1,11 @@
+C:\app\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Infrastructure.deps.json
+C:\app\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Infrastructure.dll
+C:\app\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Infrastructure.pdb
+C:\app\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Domain.dll
+C:\app\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Domain.pdb
+C:\app\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.csprojAssemblyReference.cache
+C:\app\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\app\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.AssemblyInfo.cs
+C:\app\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.csproj.CopyComplete
+C:\app\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.dll
+C:\app\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.pdb
