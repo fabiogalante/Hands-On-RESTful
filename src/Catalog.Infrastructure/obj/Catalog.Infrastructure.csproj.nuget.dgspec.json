@@ -43,6 +43,16 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
