@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.API\\Catalog.API.csproj": {}
+    "C:\\app\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.API\\Catalog.API.csproj": {
+    "C:\\app\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "C:\\app\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.API\\Catalog.API.csproj",
-        "packagesPath": "C:\\Users\\Galante\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.API\\obj\\",
+        "projectPath": "C:\\app\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
+        "packagesPath": "C:\\Users\\fabio.mans\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\Catalog.API\\src\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Galante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio.mans\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,13 +25,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\source\\nuget_repo": {},
+          "http://10.1.10.31:8020/nuget": {},
+          "http://sw10vtfs02/Superdigital/_packaging/Package-Superdigital/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
-                "projectPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
+              "C:\\app\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+                "projectPath": "C:\\app\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
               }
             }
           }
@@ -74,20 +77,20 @@
         }
       }
     },
-    "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
+    "C:\\app\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Domain\\Catalog.Domain.csproj",
+        "projectUniqueName": "C:\\app\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
         "projectName": "Catalog.Domain",
-        "projectPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Domain\\Catalog.Domain.csproj",
-        "packagesPath": "C:\\Users\\Galante\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Domain\\obj\\",
+        "projectPath": "C:\\app\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabio.mans\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\Catalog.API\\src\\Catalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Galante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio.mans\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,6 +98,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\source\\nuget_repo": {},
+          "http://10.1.10.31:8020/nuget": {},
+          "http://sw10vtfs02/Superdigital/_packaging/Package-Superdigital/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -129,20 +135,20 @@
         }
       }
     },
-    "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+    "C:\\app\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "projectUniqueName": "C:\\app\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
         "projectName": "Catalog.Infrastructure",
-        "projectPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Galante\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Infrastructure\\obj\\",
+        "projectPath": "C:\\app\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\fabio.mans\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\Catalog.API\\src\\Catalog.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Galante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio.mans\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,13 +156,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\source\\nuget_repo": {},
+          "http://10.1.10.31:8020/nuget": {},
+          "http://sw10vtfs02/Superdigital/_packaging/Package-Superdigital/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\Hands-On-RESTful\\src\\Catalog.Domain\\Catalog.Domain.csproj"
+              "C:\\app\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
+                "projectPath": "C:\\app\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj"
               }
             }
           }

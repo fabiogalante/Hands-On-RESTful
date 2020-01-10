@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Catalog.Infrastructure;
@@ -11,15 +12,22 @@ namespace Catalog.API.Extensions
 {
     public static class DatabaseExtensions
     {
-        public static IServiceCollection AddCatalogContext(this IServiceCollection services)
+        public static IServiceCollection AddCatalogContext(this IServiceCollection services, string connectionString)
         {
             return services
                 .AddEntityFrameworkSqlServer()
-                .AddDbContext<CatalogContext>(contextOptions =>
+                .AddDbContext<CatalogContext>(opt =>
                 {
-                    contextOptions.UseSqlServer(
-                        "Server=localhost,1433;Initial Catalog=Store;User Id=catalog_srv;Password=P@ssw0rd",
-                        serverOptions => { serverOptions.MigrationsAssembly(typeof(Startup).Assembly.FullName); });
+                    opt.UseSqlServer(
+                        connectionString,
+                        _ =>
+                        {
+                            _.MigrationsAssembly(typeof(Startup)
+                                .GetTypeInfo()
+                                .Assembly
+                                .GetName().Name);
+                        });
+
                 });
         }
     }

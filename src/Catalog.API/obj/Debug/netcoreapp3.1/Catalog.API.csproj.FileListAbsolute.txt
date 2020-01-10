@@ -82,3 +82,5 @@ C:\Projetos\Hands-On-RESTful\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API
 C:\Projetos\Hands-On-RESTful\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CopyComplete
 C:\Projetos\Hands-On-RESTful\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
 C:\Projetos\Hands-On-RESTful\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
+C:\app\Catalog.API\src\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\app\Catalog.API\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
