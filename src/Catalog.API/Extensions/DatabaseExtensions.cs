@@ -18,7 +18,7 @@ namespace Catalog.API.Extensions
                 .AddDbContext<CatalogContext>(contextOptions =>
                 {
                     contextOptions.UseSqlServer(
-                        "Server=localhost,1433;Initial Catalog=Store;User Id =<SA_USER>; Password =<PASSWORD>",
+                        "Server=localhost,1433;Initial Catalog=Store;User Id=catalog_srv;Password=P@ssw0rd",
                         serverOptions => { serverOptions.MigrationsAssembly(typeof(Startup).Assembly.FullName); });
                 });
         }

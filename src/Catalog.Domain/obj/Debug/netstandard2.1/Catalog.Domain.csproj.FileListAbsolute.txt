@@ -6,3 +6,11 @@ C:\app\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.As
 C:\app\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfo.cs
 C:\app\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.dll
 C:\app\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.pdb
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.deps.json
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.dll
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.pdb
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.csprojAssemblyReference.cache
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfo.cs
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.dll
+C:\Projetos\Hands-On-RESTful\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.pdb
